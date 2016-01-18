@@ -16,4 +16,4 @@ This repo contains several test definitions for the RadGrad Data Model.
 
 ## Users Added
 
-![](https://raw.githubusercontent.com/radgrad/data-model-example/master/doc/images/sample-data/users-table.png)
+![](https://raw.githubusercontent.com/RoryAndrews/radgrad-data-model-experiment/master/doc/images/users-table.png)
