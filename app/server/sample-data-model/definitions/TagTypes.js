@@ -8,7 +8,8 @@ defineTagTypes = function() {
       description: "Academic areas apart from computer science."
     },
     {name: "Locations", slug: "locations", description: "Geographic regions of interest."},
-    {name: "Professional goals", slug: "professional-goals", description: "Job titles of interest"}
+    {name: "Professional goals", slug: "professional-goals", description: "Job titles of interest."},
+    {name: "Event Tag", slug: "event-tag", description: "For events."}
   ];
 
   _.each(sampleTagTypes, RadGrad.tagtype.define);

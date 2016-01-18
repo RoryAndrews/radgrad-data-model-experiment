@@ -19,6 +19,15 @@ defineUsers = function() {
       role: RadGrad.role.faculty
     },
     {
+      firstName: "Gerald",
+      middleName: "",
+      lastName: "Lau",
+      slug: "geraldlau",
+      password: "foo",
+      uhEmail: "glau@hawaii.edu",
+      role: RadGrad.role.faculty
+    },
+    {
       firstName: "Sergey",
       middleName: "",
       lastName: "Negrashov",
@@ -34,6 +43,24 @@ defineUsers = function() {
       slug: "anthonychriste",
       password: "foo",
       uhEmail: "achriste@hawaii.edu",
+      role: RadGrad.role.student
+    },
+    {
+      firstName: "Bob",
+      middleName: "",
+      lastName: "Bobert",
+      slug: "bobbobert",
+      password: "foo",
+      uhEmail: "bobb@hawaii.edu",
+      role: RadGrad.role.student
+    },
+    {
+      firstName: "Sally",
+      middleName: "",
+      lastName: "Sue",
+      slug: "sallysue",
+      password: "foo",
+      uhEmail: "ssue@hawaii.edu",
       role: RadGrad.role.student
     }
   ];
